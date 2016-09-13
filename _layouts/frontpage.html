@@ -35,7 +35,18 @@ format: frontpage
 
 {% comment %}
 *
-* First check, if there is a call for action-button
+* First, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+
+{% comment %}
+*
+* Next check, if there is a call for action-button
 *
 {% endcomment %}
 {% if page.callforaction.url contains 'http' %}
@@ -51,11 +62,9 @@ format: frontpage
     </div><!-- /.row -->
 {% endif %}
 
-
-
 {% comment %}
 *
-* First check, if there are any posts at all
+* Finally check, if there are any posts at all
 *
 {% endcomment %}
 
@@ -96,18 +105,9 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include list-posts entries='3' category='party' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
 
 
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
