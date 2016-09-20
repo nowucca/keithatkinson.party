@@ -17,7 +17,7 @@ widget2:
   title: "Directions"
   url: 'http://keithatkinson.party/directions/'
   text: 'The party is being held at <a target="_blank" href="https://www.google.com/maps/place/Bonogin+Rd,+Bonogin+QLD+4213,+Australia/">Somewhere in the Bonogin Rd area</a>, in the Gold Coast hinterland.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://keithatkinson.party/images/start-video-keith-trailer-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="https://vimeo.com/183257587" target="_blank"><img src="http://keithatkinson.party/images/start-video-keith-trailer-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Stories for Keith"
   url: 'http://keithatkinson.party/stories/'
@@ -34,7 +34,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: 'http://keithatkinson.party/rsvp'
+  url: 'http://keithatkinson.party/rsvp/'
   text: RSVP for the party ›
   style: alert
 permalink: /index.html
@@ -44,12 +44,6 @@ permalink: /index.html
 #
 homepage: true
 ---
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://vimeo.com/183257587" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
 
 Let's put the basic details here:
 
