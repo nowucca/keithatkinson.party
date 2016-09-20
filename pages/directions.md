@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
-permalink: "/contact/"
+title: "Directions"
+meta_title: "Where are we going?"
+subheadline: "Let's find the party."
+permalink: "/directions/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+Let's put the address, a link that will open google or apple maps,
+and a physical map image here, that opens same as well.
 
- [1]: http://www.wufoo.com/
+THat way people can just click on the map or text and get a map
+service open.

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
-permalink: "/contact/"
+title: "You Coming?"
+meta_title: "You Coming?"
+subheadline: "You Coming or What?"
+permalink: "/rsvp/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+Let's have a form for their name, and let them put in a note for keith here,
+and let them submit a story too optionally.
 
- [1]: http://www.wufoo.com/
+A form page.
