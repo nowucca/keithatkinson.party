@@ -52,7 +52,7 @@ homepage: true
 <!-- AddEvent Settings -->
 <script type="text/javascript">
 addeventatc.settings({
-    license    : "replace-with-your-licensekey",
+    license    : "ayXMTIuvUzSgHpdTbmIH21256",
     css        : false
 });
 </script>
