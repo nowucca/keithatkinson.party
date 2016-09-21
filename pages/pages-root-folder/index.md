@@ -10,18 +10,14 @@ header:
 widget1:
   title: "Frequently Asked Questions"
   url: 'http://keithatkinson.party/faq/'
-  image: widget-1-302x182.jpg
   text: 'Get answers to some common questions about the party, what to wear, what to bring and learn more about Keith before the big day.'
-  text-original: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Directions"
   url: 'http://keithatkinson.party/directions/'
-  text: 'The party is being held at <a target="_blank" href="https://www.google.com/maps/place/Bonogin+Rd,+Bonogin+QLD+4213,+Australia/">Somewhere in the Bonogin Rd area</a>, in the Gold Coast hinterland.'
-  video: '<a href="https://vimeo.com/183257587" target="_blank"><img src="http://keithatkinson.party/images/start-video-keith-trailer-302x182.jpg" width="302" height="182" alt=""/></a>'
+  text: 'How does one get to this wonderful spot in the Gold Coast hinterland?'
 widget3:
   title: "Stories for Keith"
   url: 'http://keithatkinson.party/stories/'
-  image: widget-3-303x182.jpg
   text: 'Please submit some memorable thoughts and anecdotes you may have about Keith.  We plan to assemble them and share a select few at the party.'
 #
 # Use the call for action to show a button on the frontpage
@@ -44,8 +40,22 @@ permalink: /index.html
 #
 homepage: true
 ---
+<!-- AddEvent -->
+<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+<style>
+ .addeventatc 							{width:265px;display:inline-block;position:relative;text-align:center;z-index:999998;background:#2878eb;cursor:pointer;font-family:Roboto,"Segoe UI",Frutiger,"Frutiger Linotype","Dejavu Sans","Helvetica Neue",Arial,sans-serif;color:#fff!important;font-size:20px;font-weight:600;text-decoration:none;padding:12px 15px 12px 15px;}
+ .addeventatc:hover 						{color:#fff;font-size:21px;text-decoration:none;background-color:#2c84f4;}
+ .addeventatc:active 					{top:1px;}  
+ .addeventatc .arrow, .addeventatc .start, .addeventatc .end, .addeventatc .timezone, .addeventatc .title, .addeventatc .description, .addeventatc .location, .addeventatc .organizer, .addeventatc .organizer_email, .addeventatc .facebook_event, .addeventatc .all_day_event, .addeventatc .date_format, .addeventatc .alarm_reminder, .addeventatc .recurring, .addeventatc .attendees, .addeventatc .calname, .addeventatc .uid, .addeventatc .status, .addeventatc .method, .addeventatc .client {display:none!important;}
+</style>
 
-  
+<!-- AddEvent Settings -->
+<script type="text/javascript">
+addeventatc.settings({
+    license    : "replace-with-your-licensekey",
+    css        : false
+});
+</script>
 # Come help celebrate Keith's 80th birthday.
 {: style="text-align: center; margin-top: 3em"}
 
@@ -57,19 +67,19 @@ homepage: true
 {: style="text-align: center"}
 
 21 Kauri Court  
-Bonogin 4213  
-Australia 
-{: style="text-align: center"}
-
-<a href="http://add.eventable.com/events/57e1feb5a4d2ab0152daaef7/57e1feb796fc3b010b33ac13/" class="eventable-link" target="_blank" data-key="57e1feb5a4d2ab0152daaef7" data-event="57e1feb796fc3b010b33ac13" data-style="1">Add to Calendar</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
-{: style="text-align: center"}
-
-<a target="_blank" href="https://www.google.com/maps/place/21+Kauri+Ct,+Bonogin+QLD+4213,+Australia/">
-<img src="{{ site.urlimg }}directions-small-map.jpg" width="456" alt="Map of The Party House" itemprop="image"></a>  
+Bonogin Queensland 4213  
+Australia  
 [Click to See Map][google map]{:target="_blank"}
 {: style="text-align: center"}
 
-
-
+<div title="Add to Calendar" class="addeventatc" style="display: table; margin: 0 auto; font-weight: 600">
+    Add to Calendar ›
+    <span class="start">02/18/2017 12:00 PM</span>
+    <span class="end">02/18/2017 05:00 PM</span>
+    <span class="timezone">Australia/Brisbane</span>
+    <span class="title">Keith Atkinson's Party</span>
+    <span class="description">80th Birthday Bash</span>
+    <span class="location">21 Kauri Ct, Bonogin Queensland 4213</span>
+    <span class="date_format">MM/DD/YYYY</span>
+</div>
 [google map]: https://www.google.com/maps/place/21+Kauri+Ct,+Bonogin+QLD+4213,+Australia/
