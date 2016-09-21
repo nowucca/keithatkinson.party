@@ -45,13 +45,31 @@ permalink: /index.html
 homepage: true
 ---
 
-Let's put the basic details here:
+  
+# Come help celebrate Keith's 80th birthday.
+{: style="text-align: center; margin-top: 3em"}
 
-| Date:  | February 18, 2017 |
-| Location: | I need the address dear |
-| Time: 12 noon - 5pm |
+## Time and Place
+{: style="text-align: center"}
 
-etc
-etc
+   February 18, 2017  
+   12noon - 5pm
+{: style="text-align: center"}
+
+21 Kauri Court  
+Bonogin 4213  
+Australia 
+{: style="text-align: center"}
+
+<a href="http://add.eventable.com/events/57e1feb5a4d2ab0152daaef7/57e1feb796fc3b010b33ac13/" class="eventable-link" target="_blank" data-key="57e1feb5a4d2ab0152daaef7" data-event="57e1feb796fc3b010b33ac13" data-style="1">Add to Calendar</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://plugins.eventable.com/eventable.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script', 'eventable-script');</script>
+{: style="text-align: center"}
+
+<a target="_blank" href="https://www.google.com/maps/place/21+Kauri+Ct,+Bonogin+QLD+4213,+Australia/">
+<img src="{{ site.urlimg }}directions-small-map.jpg" width="456" alt="Map of The Party House" itemprop="image"></a>  
+[Click to See Map][google map]{:target="_blank"}
+{: style="text-align: center"}
 
 
+
+[google map]: https://www.google.com/maps/place/21+Kauri+Ct,+Bonogin+QLD+4213,+Australia/
