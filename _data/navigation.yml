@@ -10,10 +10,6 @@
   url: "/directions/"
   side: left
 
-- title: Stories
-  url: "/stories/"
-  side: left
-
 - title: Blog
   url: "/blog/"
   side: left

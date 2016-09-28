@@ -15,10 +15,10 @@ widget2:
   title: "Directions"
   url: 'http://keithatkinson.party/directions/'
   text: 'How does one get to this wonderful spot in the Gold Coast hinterland?'
-widget3:
-  title: "Stories for Keith"
-  url: 'http://keithatkinson.party/stories/'
-  text: 'Please submit some memorable thoughts and anecdotes you may have about Keith.  We plan to assemble them and share a select few at the party.'
+#widget3:
+#  title: "Stories for Keith"
+#  url: 'http://keithatkinson.party/stories/'
+#  text: 'Please submit some memorable thoughts and anecdotes you may have about Keith.  We plan to assemble them and share a select few at the party.'
 #
 # Use the call for action to show a button on the frontpage
 #
