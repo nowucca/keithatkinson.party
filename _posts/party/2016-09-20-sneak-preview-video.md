@@ -4,7 +4,6 @@ title:  "A Sneak Preview Video"
 teaser: "Special access to sneak preview..."
 categories:
     - party
-    - design
 tags:
     - before_party
 header: no

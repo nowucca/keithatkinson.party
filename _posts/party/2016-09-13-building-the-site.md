@@ -4,7 +4,6 @@ title:  "Building this Site"
 teaser: "So we came up with this idea for a *simple* website for the party.  After hunting for a site name, we decided..."
 categories:
     - party
-    - design
 tags:
     - before_party
 header: no
