@@ -29,10 +29,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: 'http://keithatkinson.party/rsvp/'
-  text: RSVP for the party ›
-  style: alert
+#callforaction:
+#  url: 'http://keithatkinson.party/rsvp/'
+#  text: RSVP for the party ›
+#  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
