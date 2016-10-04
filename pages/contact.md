@@ -7,9 +7,5 @@ meta_title: "CCOntact Keith and the Party Organizers"
 permalink: "/contact/"
 ---
 
-Dear, what do we want to have on here?
-
-How about Keith's email, Beata's email (ask her) and our emails?
-
-Maybe towards the day we can put a phone number(s) to call.
-
+If you have a question regarding the party, please contact
+Keith via email: <a href="mailto:katkin1@me.com">katkin1@me.com</a>.

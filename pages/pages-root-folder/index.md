@@ -6,11 +6,11 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: keithatkinson.party.logo2.jpg
+  image_fullwidth: header_keith_logo.jpg
 widget1:
   title: "Frequently Asked Questions"
   url: 'http://keithatkinson.party/faq/'
-  text: 'Get answers to some common questions about the party, what to wear, what to bring and learn more about Keith before the big day.'
+  text: 'Get answers to some common questions about the party.'
 widget2:
   title: "Directions"
   url: 'http://keithatkinson.party/directions/'
@@ -56,23 +56,28 @@ addeventatc.settings({
     css        : false
 });
 </script>
-# Come help celebrate Keith's 80th birthday.
+# You are invited to celebrate with Keith, a coming of age party...
 {: style="text-align: center; margin-top: 3em"}
 
-## Time and Place
+#   18 February 2017  
+{: style="text-align: center; margin-top: 3em"}
+
+#   12noon - 5pm
 {: style="text-align: center"}
 
-   February 18, 2017  
-   12noon - 5pm
+# 21 Kauri Court  
+{: style="text-align: center; margin-top: 3em"}
+
+# Bonogin Queensland 4213  
 {: style="text-align: center"}
 
-21 Kauri Court  
-Bonogin Queensland 4213  
-Australia  
+# Australia  
+{: style="text-align: center"}
+
 [Click to See Map][google map]{:target="_blank"}
 {: style="text-align: center"}
 
-<div title="Add to Calendar" class="addeventatc" style="display: table; margin: 0 auto; font-weight: 600">
+<div title="Add to Calendar" class="addeventatc" style="display: table; margin: 0 auto; margin-top: 3em; font-weight: 600">
     Add to Calendar ›
     <span class="start">02/18/2017 12:00 PM</span>
     <span class="end">02/18/2017 05:00 PM</span>
@@ -82,4 +87,5 @@ Australia
     <span class="location">21 Kauri Ct, Bonogin Queensland 4213</span>
     <span class="date_format">MM/DD/YYYY</span>
 </div>
+
 [google map]: https://www.google.com/maps/place/21+Kauri+Ct,+Bonogin+QLD+4213,+Australia/
