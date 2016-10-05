@@ -6,6 +6,7 @@
 #
 layout: frontpage
 header:
+  nologo: true 
   image_fullwidth: header_keith_logo.jpg
 widget1:
   title: "Frequently Asked Questions"
