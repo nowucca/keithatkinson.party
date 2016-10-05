@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "CCOntact Keith and the Party Organizers"
-#subheadline: "Wufoo-powered contact forms"
-#teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact Keith"
 permalink: "/contact/"
+header:
+  nologo: true 
+  image_fullwidth: header_keith_logo.jpg
 ---
 
 If you have a question regarding the party, please contact
