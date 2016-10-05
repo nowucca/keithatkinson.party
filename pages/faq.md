@@ -4,6 +4,7 @@ title: "Frequently Asked Questions"
 meta_title: "Frequently Asked Questions"
 permalink: "/faq/"
 header:
+   nologo: true
    image_fullwidth: "header_faq.jpg"
 ---
 
