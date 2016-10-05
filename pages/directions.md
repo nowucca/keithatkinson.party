@@ -4,7 +4,7 @@ title: "Directions"
 meta_title: "Where are we going?"
 permalink: "/directions/"
 header:
-    nologo: true
+   nologo: true
    image_fullwidth: "header_directions.jpg"
 ---
 
