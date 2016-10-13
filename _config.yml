@@ -14,7 +14,7 @@ title: 'Keith Atkinson''s Party'
 slogan: 'If you don''t know me by now...'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Come join Keith and his friends for his 80th Birthday on 18 February 2017.'
+description: 'Come help Keith celebrate his 80th birthday on 18 February 2017.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://nowucca.com/">Nowucca</a>, and <a href="http://stuff.management">Stuff Management</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
