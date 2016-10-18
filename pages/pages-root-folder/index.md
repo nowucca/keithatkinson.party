@@ -6,16 +6,16 @@
 #
 layout: frontpage
 header:
-  nologo: true 
+  nologo: true
   image_fullwidth: header_keith_logo.jpg
 widget1:
   title: "Frequently Asked Questions"
   url: 'http://keithatkinson.party/faq/'
   text: 'Get answers to some common questions about the party.'
-widget2:
-  title: "Directions"
-  url: 'http://keithatkinson.party/directions/'
-  text: 'How does one get to this wonderful spot in the Gold Coast hinterland?'
+#widget2:
+#  title: "Directions"
+#  url: 'http://keithatkinson.party/directions/'
+#  text: 'How does one get to this wonderful spot in the Gold Coast hinterland?'
 #widget3:
 #  title: "Stories for Keith"
 #  url: 'http://keithatkinson.party/stories/'
@@ -46,7 +46,7 @@ homepage: true
 <style>
  .addeventatc 							{width:265px;display:inline-block;position:relative;text-align:center;z-index:999998;background:#2878eb;cursor:pointer;font-family:Roboto,"Segoe UI",Frutiger,"Frutiger Linotype","Dejavu Sans","Helvetica Neue",Arial,sans-serif;color:#fff!important;font-size:20px;font-weight:600;text-decoration:none;padding:12px 15px 12px 15px;}
  .addeventatc:hover 						{color:#fff;font-size:21px;text-decoration:none;background-color:#2c84f4;}
- .addeventatc:active 					{top:1px;}  
+ .addeventatc:active 					{top:1px;}
  .addeventatc .arrow, .addeventatc .start, .addeventatc .end, .addeventatc .timezone, .addeventatc .title, .addeventatc .description, .addeventatc .location, .addeventatc .organizer, .addeventatc .organizer_email, .addeventatc .facebook_event, .addeventatc .all_day_event, .addeventatc .date_format, .addeventatc .alarm_reminder, .addeventatc .recurring, .addeventatc .attendees, .addeventatc .calname, .addeventatc .uid, .addeventatc .status, .addeventatc .method, .addeventatc .client {display:none!important;}
 </style>
 
@@ -60,19 +60,19 @@ addeventatc.settings({
 # You are invited to celebrate with Keith, a coming of age party...
 {: style="text-align: center; margin-top: 3em"}
 
-#   18 February 2017  
+#   18 February 2017
 {: style="text-align: center; margin-top: 3em"}
 
 #   12noon - 5pm
 {: style="text-align: center"}
 
-# 21 Kauri Court  
+# (See Invitation for Street Address)
 {: style="text-align: center; margin-top: 3em"}
 
-# Bonogin Queensland 4213  
+# Bonogin Queensland 4213
 {: style="text-align: center"}
 
-# Australia  
+# Australia
 {: style="text-align: center"}
 
 [Click to See Map][google map]{:target="_blank"}
@@ -85,8 +85,8 @@ addeventatc.settings({
     <span class="timezone">Australia/Brisbane</span>
     <span class="title">Keith Atkinson's Party</span>
     <span class="description">80th Birthday Bash</span>
-    <span class="location">21 Kauri Ct, Bonogin Queensland 4213</span>
+    <span class="location">(See Invitation for Street Address), Bonogin Queensland 4213</span>
     <span class="date_format">MM/DD/YYYY</span>
 </div>
 
-[google map]: https://www.google.com/maps/place/21+Kauri+Ct,+Bonogin+QLD+4213,+Australia/
+[google map]: https://www.google.com/maps/place/Bonogin+QLD+4213,+Australia/

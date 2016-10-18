@@ -5,11 +5,10 @@
 - title: FAQs
   url: "/faq/"
   side: left
-
-- title: Directions
-  url: "/directions/"
-  side: left
-
+#
+#- title: Directions
+#  url: "/directions/"
+#  side: left
 - title: Blog
   url: "/blog/"
   side: left
