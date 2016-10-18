@@ -67,10 +67,10 @@ addeventatc.settings({
 {: style="text-align: center"}
 
 # Bonogin Queensland 4213
-{: style="text-align: center"}
+{: style="text-align: center; margin-top: 3em"}
 
 # (See Invitation for Street Address)
-{: style="text-align: center; margin-top: 3em"}
+{: style="text-align: center"}
 
 # Australia
 {: style="text-align: center"}
