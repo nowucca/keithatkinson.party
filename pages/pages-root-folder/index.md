@@ -69,14 +69,14 @@ addeventatc.settings({
 # Bonogin Queensland 4213
 {: style="text-align: center; margin-top: 3em"}
 
-# (See Invitation for Street Address)
-{: style="text-align: center"}
-
 # Australia
 {: style="text-align: center"}
 
-[Click to See Map][google map]{:target="_blank"}
+# (See Invitation for Street Address)
 {: style="text-align: center"}
+
+[Click to See Map][google map]{:target="_blank"}
+{: style="text-align: center; margin-top: 2em"}
 
 [Frequently Asked Questions](http://keithatkinson.party/faq/)
 {: style="text-align: center"}

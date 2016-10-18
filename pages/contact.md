@@ -9,4 +9,4 @@ header:
 ---
 
 If you have a question regarding the party, please contact
-Keith via email or phone (As per invitation).
+Keith via email or phone, as per invitation.
