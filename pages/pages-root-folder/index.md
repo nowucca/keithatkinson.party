@@ -8,10 +8,10 @@ layout: frontpage
 header:
   nologo: true
   image_fullwidth: header_keith_logo.jpg
-widget1:
-  title: "Frequently Asked Questions"
-  url: 'http://keithatkinson.party/faq/'
-  text: 'Get answers to some common questions about the party.'
+#widget1:
+#  title: "Frequently Asked Questions"
+#  url: 'http://keithatkinson.party/faq/'
+#  text: 'Get answers to some common questions about the party.'
 #widget2:
 #  title: "Directions"
 #  url: 'http://keithatkinson.party/directions/'
@@ -76,6 +76,9 @@ addeventatc.settings({
 {: style="text-align: center"}
 
 [Click to See Map][google map]{:target="_blank"}
+{: style="text-align: center"}
+
+[Frequently Asked Questions](http://keithatkinson.party/faq/)
 {: style="text-align: center"}
 
 <div title="Add to Calendar" class="addeventatc" style="display: table; margin: 0 auto; margin-top: 3em; font-weight: 600">
