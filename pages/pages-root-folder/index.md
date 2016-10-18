@@ -66,11 +66,11 @@ addeventatc.settings({
 #   12noon - 5pm
 {: style="text-align: center"}
 
-# (See Invitation for Street Address)
-{: style="text-align: center; margin-top: 3em"}
-
 # Bonogin Queensland 4213
 {: style="text-align: center"}
+
+# (See Invitation for Street Address)
+{: style="text-align: center; margin-top: 3em"}
 
 # Australia
 {: style="text-align: center"}
