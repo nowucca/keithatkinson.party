@@ -7,51 +7,31 @@ header:
    nologo: true
    image_fullwidth: "header_directions.jpg"
 ---
+_Qui set voie demander / Par tot le monde puet aler :_
+Whoever knows how to ask the way can travel throughout the whole world.
 
-21 Kauri Court  
-Bonogin 4213  
-Australia 
-{: style="font-size: 24;text-align: center"}
+----
 
+## Directions from Brisbane
 
-This is a picture of the party house - just so you know when you have arrived.
-**Look for green balloons on the gate and front of the house.**
+Take exit 82 (Robina Town Centre, Somerset Drive) left off the highway, keep in right lane, turn right at the lights to cross the highway, straight at the first roundabout, then turn right at the second roundabout (follow down Somerset Drive). \[Garage on left, at this point\].
 
-<a target="_blank" href="https://www.google.com/maps/place/21+Kauri+Ct,+Bonogin+QLD+4213,+Australia/">
-<img src="{{ site.urlimg }}party-house.jpg" width="456" alt="Map of The Party House" itemprop="image"></a>
-{: style="text-align: center"}
+Follow Somerset Drive. Drive past school and school cricket grounds and turn sharp left into Bonogin Road at the top of the gentle hill (before the third set of lights on the main road).
 
-## How do you get there?
+Follow Bonogin Road for about 8.5 km. After a couple of roundabouts in the middle of the hills, watch out for a Café/General Store on your right (there is only one and you can't miss it).
 
-### From Brisbane (92km, ~70 mins)
-<p/>
-  
-PDF Printout: [Brisbane CBD to 21 Kauri Court using a PDF.][fromBrisbanePDF]
+Turn the first left into Gardenia Drive, then third on your right is Kauri Court. Up the hill, on your right is 21.
 
-Google Maps: [Brisbane CBD to 21 Kauri Court using Google Maps.][fromBrisbaneGoogle]
+Watch out for the <span style="font-weight: bold; font-size: larger; color: #8EAB6A">Green Balloons!</span>
 
-Apple Maps: [Brisbane CBD to 21 Kauri Court using Apple Maps.][fromBrisbaneApple]
+## Directions from Gold Coast
 
-<p/>
-### From the Gold Coast Airport (26km, ~30 mins)
-<p/>
+Take exit 82, turn left into Somerset Drive, straight at the first roundabout, then turn right at the second roundabout (follow Somerset Drive).
 
+Drive past school and school cricket grounds and turn sharp left into Bonogin Road at the top of the gentle hill (before the third set of lights on the main road).
 
-PDF Printout: [Gold Coast Airport to 21 Kauri Court using a PDF.][fromGoldCoastPDF]
+Follow Bonogin Road for about 8.5 km. After a couple of roundabouts in the middle of the hills, watch out for a Café/General Store on your right (there is only one and you can't miss it).
 
-Google Maps: [Gold Coast Airport to 21 Kauri Court using Google Maps.][fromGoldCoastGoogle]
+Turn the first left into Gardenia Drive, then third on your right is Kauri Court. Up the hill, on your right is 21.
 
-Apple Maps: [Gold Coast Airport to 21 Kauri Court using Apple Maps.][fromGoldCoastApple]
-
-
-
-
-[fromBrisbaneGoogle]: https://goo.gl/maps/Tdfjq5Vu1gr
-[fromGoldCoastGoogle]: https://goo.gl/maps/QtrvGc6EnVw
-[fromBrisbaneApple]: https://maps.apple.com/?daddr=(-28.145132,%20153.340212)&dirflg=d&saddr=(-27.470027,%20153.022977)
-[fromGoldCoastApple]: https://maps.apple.com/?daddr=(-28.145132,%20153.340212)&dirflg=d&saddr=(-28.166517,%20153.512728)
-
-[fromBrisbanePDF]: {{site.url}}{{site.baseurl}}/assets/Directions from Brisbane CBD to party.pdf
-[fromGoldCoastPDF]: {{site.url}}{{site.baseurl}}/assets/Directions from GC airport to party.pdf
-
-[google map]: https://www.google.com/maps/place/21+Kauri+Ct,+Bonogin+QLD+4213,+Australia/
+Watch out for the <span style="font-weight: bold; font-size: larger; color: #8EAB6A">Green Balloons!</span>

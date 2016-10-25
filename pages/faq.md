@@ -18,11 +18,12 @@ header:
 
 ## Dress Code?
 
-- None. Wear whatever you like.  Remember that it will be Queensland in February!
+- No code, but a splash of green would be good.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/faq-2.jpg">
 
 ----
+
 
 
 ## Food and Drink?
