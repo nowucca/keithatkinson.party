@@ -7,7 +7,7 @@ header:
    nologo: true
    image_fullwidth: "header_directions.jpg"
 ---
-_Qui set voie demander / Par tot le monde puet aler :_
+_Qui set voie demander / Par tot le monde puet aler :_  
 Whoever knows how to ask the way can travel throughout the whole world.
 
 ----
