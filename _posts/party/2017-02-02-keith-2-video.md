@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Keith 2 Video"
-teaser: "There's only 2 weeks until Keith's..."
+teaser: "There's only 2 weeks until Keith's coming of age party..."
 categories:
     - party
 tags:
